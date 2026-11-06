@@ -1,8 +1,0 @@
-Package: com.ryuma.ios
-Name: RYUMA
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: RYUMA license prompt for an app you own or are authorized to modify.
-Maintainer: RYUMA
-Author: RYUMA
-Section: Tweaks
